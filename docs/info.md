@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+As a start a pure inverter taking a[0] in and outputting on o[0]
 
 ## How to test
 
-Explain how to use your project
-
+apply 1 on a[0] and observe 0 on o[0]
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any

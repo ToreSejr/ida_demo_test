@@ -18,7 +18,7 @@ module tt_um_toresejr_ida_inverter (
 
   // All output pins must be assigned. If not used, assign to 0.
     assign uo_out[0]  = ~ui_in[0];  // Example: ou_out is the sum of ui_in and uio_in
-    assign uo_out[7:1] = 0'b7
+    assign uo_out[7:1] = 0'b7;
     assign uio_out = 0;
   assign uio_oe  = 0;
 
